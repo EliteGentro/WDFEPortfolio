@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WDFEPortfolio/static/css/main.d464f73d.css",
+    "main.js": "/WDFEPortfolio/static/js/main.0a1874ef.js",
+    "index.html": "/WDFEPortfolio/index.html",
+    "main.d464f73d.css.map": "/WDFEPortfolio/static/css/main.d464f73d.css.map",
+    "main.0a1874ef.js.map": "/WDFEPortfolio/static/js/main.0a1874ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d464f73d.css",
+    "static/js/main.0a1874ef.js"
+  ]
+}
