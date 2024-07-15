@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WDFEPortfolio/static/css/main.a7c46d83.css",
-    "main.js": "/WDFEPortfolio/static/js/main.66546560.js",
+    "main.js": "/WDFEPortfolio/static/js/main.85fa53de.js",
     "index.html": "/WDFEPortfolio/index.html",
     "main.a7c46d83.css.map": "/WDFEPortfolio/static/css/main.a7c46d83.css.map",
-    "main.66546560.js.map": "/WDFEPortfolio/static/js/main.66546560.js.map"
+    "main.85fa53de.js.map": "/WDFEPortfolio/static/js/main.85fa53de.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c46d83.css",
-    "static/js/main.66546560.js"
+    "static/js/main.85fa53de.js"
   ]
 }
