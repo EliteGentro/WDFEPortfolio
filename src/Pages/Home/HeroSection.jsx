@@ -18,7 +18,7 @@ export default function HeroSection() {
         <p className="section--title">(Not yet Enabled)</p>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="/WDFEPortfolio/img/hero_img.png" alt="Hero Section" />
       </div>
     </section>
   );
