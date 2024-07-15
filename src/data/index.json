@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "I've had the pleasure of working with Humberto on several projects during our time in university. Their proficiency in various programming languages, including Python, C++, and Java, is impressive. Humberto stands out not only for their technical skills but also for their creativity and ability to think outside the box. Their contributions always bring a fresh perspective to the team, making our projects both innovative and effective.",
+      "author_name": "Chat GPT",
+      "author_designation": "AI Generated Feedback"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Humberto is an exceptional computer science student with a strong grasp of programming languages like MATLAB, HTML, CSS, and JavaScript. Their recent work with React has shown their adaptability and eagerness to learn new technologies. Beyond their technical skills, Humberto excels in team environments. They are a natural leader who can delegate tasks efficiently, ensuring that the team works cohesively and meets deadlines without compromising on quality.",
+      "author_name": "Chat GPT",
+      "author_designation": "AI Generated Feedback"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Having collaborated with Humberto on several university projects, I can confidently say they are one of the most creative and technically skilled individuals I know. Their expertise in a wide range of programming languages and their ability to apply this knowledge effectively in team settings is remarkable. Humberto's leadership skills are unparalleled; they delegate work with precision and always foster a collaborative atmosphere, which significantly enhances the team's productivity and morale.",
+      "author_name": "Chat GPT",
+      "author_designation": "AI Generated Feedback"
+    }
+  ]
+}
