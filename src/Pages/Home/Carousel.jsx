@@ -61,7 +61,8 @@ function Carousel() {
         <div className="carousel_arrow_right" onClick={slideRight}>
           &rsaquo;
         </div>
-        <div className="carousel_pagination">
+      </div>
+      <div className="carousel_pagination">
           {images.map((_, id) => {
             return (
               <div
@@ -76,7 +77,6 @@ function Carousel() {
             );
           })}
         </div>
-      </div>
     </div>
   );
 }
