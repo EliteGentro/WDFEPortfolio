@@ -13,9 +13,9 @@ export default function HeroSection() {
             I'm currently coursing my second year on Computer Science at Tecnológico de Monterrey. I love software and find it easy to learn and adapt to new frameworks and stacks.
 
           </p>
+          <button className="btn btn-primary">Get In Touch</button>
+          <p className="section--title">(Not yet Enabled)</p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
-        <p className="section--title">(Not yet Enabled)</p>
       </div>
       <div className="hero--section--img">
         <img src="/WDFEPortfolio/img/hero_img.png" alt="Hero Section" />

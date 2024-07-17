@@ -73,5 +73,82 @@
       "author_name": "Chat GPT",
       "author_designation": "AI Generated Feedback"
     }
+  ],
+  "slides": [
+    {
+      "id":"1",
+      "src": "/WDFEPortfolio/img/diplomas/HTMLandCSS.png",
+      "alt": "Meta HTML and CSS Certificate"
+    },
+    {
+      "id":"2",
+      "src": "/WDFEPortfolio/img/diplomas/programmingWithJavaScript.png",
+      "alt": "Meta Programming with JavaScript Certificate"
+    },
+    {
+      "id":"3",
+      "src": "/WDFEPortfolio/img/diplomas/ReactBasics.png",
+      "alt": "Meta React Basics Certificate"
+    },
+    {
+      "id":"4",
+      "src": "/WDFEPortfolio/img/diplomas/versionControl.png",
+      "alt": "Meta Version Control Certificate"
+    },
+    {
+      "id":"5",
+      "src": "/WDFEPortfolio/img/diplomas/basesDeDatosPython.png",
+      "alt": "Database Management with Python Certificate"
+    },
+    {
+      "id":"6",
+      "src": "/WDFEPortfolio/img/diplomas/estructurasDeDatosPython.png",
+      "alt": "Data Structures in Python Certificate"
+    },
+    {
+      "id":"7",
+      "src": "/WDFEPortfolio/img/diplomas/googleCloud.jpg",
+      "alt": "Google Cloud Fundamentals Certificate"
+    },
+    {
+      "id":"8",
+      "src": "/WDFEPortfolio/img/diplomas/introduccionALaProgramacion.png",
+      "alt": "Introduction to Programming in Python Certificate"
+    },
+    {
+      "id":"9",
+      "src": "/WDFEPortfolio/img/diplomas/introductionToFrontEnd.png",
+      "alt": "Meta Introduction to Front-End Development Certificate"
+    },
+    {
+      "id":"10",
+      "src": "/WDFEPortfolio/img/diplomas/IntroductionToHTML.png",
+      "alt": "Introduction to HTML Certificate"
+    },
+    {
+      "id":"11",
+      "src": "/WDFEPortfolio/img/diplomas/learningHowToLearn.png",
+      "alt": "Learning How to Learn Certificate"
+    },
+    {
+      "id":"12",
+      "src": "/WDFEPortfolio/img/diplomas/MATLAB.png",
+      "alt": "Programming with MATLAB Certificate"
+    },
+    {
+      "id":"13",
+      "src": "/WDFEPortfolio/img/diplomas/mindshift.png",
+      "alt": "Mindshift Certificate"
+    },
+    {
+      "id":"14",
+      "src": "/WDFEPortfolio/img/diplomas/orientadoAObjetosPython.png",
+      "alt": "Object Oriented Programming with Python Certificate"
+    },
+    {
+      "id":"15",
+      "src": "/WDFEPortfolio/img/diplomas/Python_Specialization.png",
+      "alt": "Programming with Python Specialization Certificate"
+    }
   ]
 }
