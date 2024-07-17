@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WDFEPortfolio/static/css/main.456edec4.css",
-    "main.js": "/WDFEPortfolio/static/js/main.c5833696.js",
+    "main.css": "/WDFEPortfolio/static/css/main.932614a3.css",
+    "main.js": "/WDFEPortfolio/static/js/main.830252a4.js",
     "index.html": "/WDFEPortfolio/index.html",
-    "main.456edec4.css.map": "/WDFEPortfolio/static/css/main.456edec4.css.map",
-    "main.c5833696.js.map": "/WDFEPortfolio/static/js/main.c5833696.js.map"
+    "main.932614a3.css.map": "/WDFEPortfolio/static/css/main.932614a3.css.map",
+    "main.830252a4.js.map": "/WDFEPortfolio/static/js/main.830252a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.456edec4.css",
-    "static/js/main.c5833696.js"
+    "static/css/main.932614a3.css",
+    "static/js/main.830252a4.js"
   ]
 }
