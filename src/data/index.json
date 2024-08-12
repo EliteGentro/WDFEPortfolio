@@ -4,47 +4,47 @@
       "id": "1",
       "src": "/WDFEPortfolio/img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I have a solid foundation in HTML and CSS, which I use to create well-structured and visually appealing web pages. My skills extend to responsive design, ensuring that my websites are accessible and functional across various devices and screen sizes. Additionally, I am well-versed in web accessibility principles, allowing me to build inclusive digital experiences for all users. Currently, I am expanding my expertise by learning React, a powerful JavaScript library for building dynamic and interactive user interfaces. This new endeavor is enhancing my ability to develop modern web applications with improved performance and usability."
     },
     {
       "id": "2",
       "src": "/WDFEPortfolio/img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Although I have not yet had the opportunity to work on the backend of a project, I am proficient in both Java and C++. I have undertaken diverse projects that have honed my skills in object-oriented programming, allowing me to design and implement robust and efficient software solutions. My experience with these languages has given me a strong understanding of fundamental programming concepts, such as inheritance, polymorphism, and encapsulation. This background provides a solid foundation for future exploration into backend development, where I am eager to apply and expand my knowledge."
     },
     {
       "id": "3",
       "src": "/WDFEPortfolio/img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "My main experience with UI and UX design spans several platforms, including MATLAB applications, JavaFX, and web development. In MATLAB, I have created user-friendly interfaces for various engineering and scientific applications, focusing on functionality and ease of use. With JavaFX, I have developed desktop applications that emphasize both visual appeal and user interaction. In web development, I have combined HTML, CSS, and JavaScript to craft engaging and responsive user experiences. These diverse experiences have equipped me with a versatile skill set in UI and UX design, allowing me to create intuitive and effective interfaces across multiple environments."
     },
     {
       "id": "4",
       "src": "/WDFEPortfolio/img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Data Science",
+      "description": "I have experience in performing statistical analysis using the R language, which has been instrumental in my work with bioinformatics. R's extensive libraries and packages enable me to handle and analyze large datasets effectively, applying various statistical methods and visualizations. My work in bioinformatics involves analyzing genetic data, interpreting results from high-throughput sequencing, and using R to develop models that can predict biological outcomes. This experience has honed my skills in data manipulation, statistical modeling, and the visualization of complex data sets, contributing to a deeper understanding of biological processes and improving research outcomes."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "/WDFEPortfolio/img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Blank Project",
+      "description": "This is a slot for future projects",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "/WDFEPortfolio/img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Blank Project",
+      "description": "This is a slot for future projects",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "/WDFEPortfolio/img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Blank Project",
+      "description": "This is a slot for future projects",
       "link": "View In Github"
     }
   ],

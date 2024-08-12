@@ -9,15 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          I am a second-year student in the Computer Technology Engineering program with a keen interest in software development and process optimization through programming. My passion lies in exploring all areas of development, constantly pushing the boundaries of my knowledge and skills. Currently, I am delving into front-end development, where I am learning to create engaging and responsive user interfaces.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          Simultaneously, I am deepening my understanding of data structures and algorithms, aiming to build a strong foundation for efficient and effective problem-solving. With a love for continuous learning and innovation, I am excited to contribute to the ever-evolving field of technology.
           </p>
         </div>
       </div>
